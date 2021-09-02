@@ -1,4 +1,5 @@
 Source: kurento-module-creator
+Section: java
 Priority: optional
 Maintainer: Kurento <kurento@googlegroups.com>
 Build-Depends: debhelper (>= 9),
